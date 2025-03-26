@@ -1,3 +1,2 @@
 nginx
 mongo
-jessezhang/yapi
